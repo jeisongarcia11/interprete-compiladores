@@ -10,7 +10,7 @@ const funciones = {
     } else {
       throw 'No puedes declarar dos funciones con el mismo nombre <<' +
         id +
-        '>>';
+        '>>'; 
     }
   },
   validarFuncion: function(id) {
