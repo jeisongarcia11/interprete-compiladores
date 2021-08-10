@@ -1,6 +1,6 @@
 // Import stylesheets
 import './style.css';
-import $ from 'jquery';
+import $ from 'jquery'; 
 
 var parser = require('./grammar');
 var funciones = require('./data.js').funciones;
