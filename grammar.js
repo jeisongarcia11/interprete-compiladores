@@ -51,7 +51,7 @@
   }
 
 
-  token location info (@$, _$, etc.): {
+  token location info (@$, _$, etc.): { 
     first_line: n,
     last_line: n,
     first_column: n,
