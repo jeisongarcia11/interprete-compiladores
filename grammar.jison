@@ -4,7 +4,7 @@
 
 %%
 
-\s+					/* Ignore*/
+\s+					/* Ignore*/ 
 "$".*				/* Ignore*/
 
 "&Prnt"				return 'TPRINT';
